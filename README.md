@@ -1,5 +1,5 @@
 [README.md](https://github.com/user-attachments/files/28188210/README.md)
-### IMS566 Individual Project: Student Academic Portal System Prototype
+### IMS566 Individual Project: Student Portal System Prototype
 
 ### Description
 "My Academic Hub" is a web-based student portal prototype designed for academic tracking. The system allows students to view enrolled courses, monitor weekly class schedules, and analyze the cumulative GPA trends across all semesters with an interactive data visualization interface.
